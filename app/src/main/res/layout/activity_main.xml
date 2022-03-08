@@ -8,7 +8,28 @@
     android:layout_margin="16dp"
     tools:context=".MainActivity">
 
-    <EditText
+    <ImageView
+        android:id="@+id/btnLogOut"
+        android:layout_width="43dp"
+        android:layout_height="51dp"
+        app:srcCompat="@drawable/icons8_logout_30" />
+
+    <ImageView
+        android:id="@+id/instaLogo"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/nav_logo_whiteout" />
+
+    <FrameLayout
+        android:id="@+id/flContainer"
+        android:layout_width="match_parent"
+        android:layout_height="569dp"
+        android:layout_above="@+id/bottomNavigation">
+
+    </FrameLayout>
+
+   <!-- <EditText
         android:id="@+id/etDescription"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -17,7 +38,7 @@
         android:layout_alignParentEnd="true"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="2dp"
-        android:layout_marginTop="59dp"
+        android:layout_marginTop="48dp"
         android:layout_marginEnd="-1dp"
         android:ems="10"
         android:hint="Description..." />
@@ -27,9 +48,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginBottom="295dp"
+        android:layout_marginStart="-2dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="504dp"
         android:text="Take Picture" />
 
     <ImageView
@@ -38,8 +61,11 @@
         android:layout_height="200dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginTop="115dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="237dp"
+        android:layout_marginEnd="-1dp"
         tools:srcCompat="@tools:sample/avatars" />
 
     <Button
@@ -50,7 +76,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerVertical="true"
         android:layout_marginStart="0dp"
-        android:layout_marginBottom="237dp"
+        android:layout_marginBottom="175dp"
         android:text="Submit" />
 
     <Button
@@ -60,7 +86,16 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
-        android:layout_marginBottom="32dp"
-        android:text="LOG OUT" />
+        android:layout_marginBottom="94dp"
+        android:text="LOG OUT" /> -->
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/menu_bottom_navigation" >
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
 
 </RelativeLayout>
