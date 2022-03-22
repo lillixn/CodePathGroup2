@@ -42,10 +42,16 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
+* Login
    * [list associated required story here]
    * ...
-* [list second screen here]
+* CalCounter home page
+   * [list associated required story here]
+   * ...
+* Camera
+   * [list associated required story here]
+   * ...
+* Profile
    * [list associated required story here]
    * ...
 
