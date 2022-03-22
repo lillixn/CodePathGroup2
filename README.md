@@ -44,16 +44,15 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 
 * Login/ Create Account
    * User can login to keep track of calories and personal settings (location services, camera permissions, etc.)
+   * User can enter calorie intake
    
 * CalCounter home page
    * User can see a progress bar that is tracking their calorie goal
    * Enouraging messages appear here
 * Camera
    * Can capture calorie information from packages and log it automatically
-   * ...
 * Profile
    * User can set calorie goals, edit account information, and adjust privacy settings
-   * ...
 
 ### 3. Navigation
 
