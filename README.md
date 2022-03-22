@@ -10,7 +10,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-CalCounter is a streamlined, user-friendly solution to tracking calories. Traditional fitness apps have excessive features that over complicate and overstimulate. With CalCounter, users can quickly and effectively track their calories on the go. With location enabled services users can be reminded to enter calories at home, the workplace, the gym and more! For added convenience users can scan nutrition labels for quick calorie logging. Whether you’re a student athlete looking to up your calories or a busy mom on the go trying to watch your calorie intake, CalCounter makes it easy!
+CalCounter is a streamlined, user-friendly solution to tracking calories. Traditional fitness apps have excessive features that over complicate and overstimulate. With CalCounter, users can quickly and effectively track their calories on the go. With location enabled services users can be reminded to enter calories at home, the workplace, the gym and more! For added convenience users can scan nutrition labels for quick calorie logging. Users will receive encouraging notifications to keep them motivated and on track with their calorie goals. Whether you’re a student athlete looking to up your calories or a busy mom on the go trying to watch your calorie intake, CalCounter makes it easy!
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
