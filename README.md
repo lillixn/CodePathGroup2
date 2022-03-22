@@ -14,11 +14,17 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Mobile:** The app is with users 24/7 so they can quickly enter in calories while on the go with ease and utilizes a camera and location enabled services.
+- **Mobile:** The app is with users 24/7 so they can quickly enter in calories while on the go with ease and utilizes a camera and location enabled       services.
 - **Story:**
-- **Market:**
+- **Market:** 
+     -Has the potential to help thousands of users.
+     -This app doesn’t serve a niche group, instead it serves a wide variety of users. Those who are aiming to lose weight, maintain a healthy weight, or         increase their calories for bulking can all benefit from this app
+     -Audience includes ages 15-80 yrs, all genders, races, identities, etc.
 - **Habit:**
+      -A user could use this app frequently, whether they’d like to track their calories every day or track specific goals(weeks, months, years, etc)
+      -The user will keep coming back to receive motivational messages and see their progress in real time
 - **Scope:**
+      -This program will be moderately challenging, considering that we will be adding two mobile-oriented features to this calorie app. We believe that we         will face challenges with this app, but feel confident that we will be able to meet our goals and complete the app.
 
 ## Product Spec
 
