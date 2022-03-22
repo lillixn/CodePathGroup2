@@ -59,9 +59,9 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* CalCounter Home
+* Camera
+* Profile
 
 **Flow Navigation** (Screen to Screen)
 
