@@ -71,7 +71,7 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 
 **Flow Navigation** (Screen to Screen)
 
-<img src="https://github.com/lillixn/CodePathGroup2/blob/main/CalCounter%20Flowchart.png" width=600>
+<img src="https://github.com/lillixn/CodePathGroup2/blob/main/CalCounter%20Flowchart%20(1).png" width=600>
 
 
 ## Wireframes
