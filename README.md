@@ -32,13 +32,20 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can create an account
+* User can login
+* User can set calorie goal
+* User can log calories
+* User can enable/disable location services
+* User can enable/disable camera access
+* User can scan label for calorie information
+* User can edit calorie goals
+* User can recieve notifications
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can view progress from past calorie goals
+* User can log additional health info (weight, BMI, etc.)
 
 ### 2. Screen Archetypes
 
