@@ -1,22 +1,20 @@
 Original App Design Project - README Template
 ===
 
-# APP_NAME_HERE
+# CalCounter
 
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
 1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
 
 ## Overview
 ### Description
-[Description of your app]
+CalCounter is a streamlined, user-friendly solution to tracking calories. Traditional fitness apps have excessive features that over complicate and overstimulate. With CalCounter, users can quickly and effectively track their calories on the go. With location enabled services users can be reminded to enter calories at home, the workplace, the gym and more! For added convenience users can scan nutrition labels for quick calorie logging. Whether you’re a student athlete looking to up your calories or a busy mom on the go trying to watch your calorie intake, CalCounter makes it easy!
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
+- **Mobile:** The app is with users 24/7 so they can quickly enter in calories while on the go with ease and utilizes a camera and location enabled services.
 - **Story:**
 - **Market:**
 - **Habit:**
@@ -69,12 +67,3 @@ Original App Design Project - README Template
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
-### Models
-[Add table of models]
-### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
