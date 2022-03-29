@@ -89,3 +89,14 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 [Profile]
 <img src="https://github.com/lillixn/CodePathGroup2/blob/main/CalCounterProfile.png" width=400>
 ### [BONUS] Interactive Prototype
+
+## Schema 
+### Models
+#### Post
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | image         | File     | Scanning nutrition labels) |
+   | objectId      | String   | Unique ID for users to track progress |
+   | updatedAt     | DateTime | Date when calories entered or target hit |
+   | createdAt     | DateTime | Starting dates when the user set new goal |
