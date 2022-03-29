@@ -101,3 +101,13 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
    | objectId      | String   | Unique ID for users to track progress |
    | updatedAt     | DateTime | Date when calories entered or target hit |
    | createdAt     | DateTime | Starting dates when the user set new goal |
+   
+   | CRUD          | HTTP Verb     | Example |
+   | ------------- | -------- | ------------|
+   | Read          | GET      | Retrieving goal set by user |
+   | Update        | PUT      | Updating goals |
+   | Delete        | DELETE   | Deleting goals or calorie records |
+   | Create        | POST     | New goal(s) |
+   
+  
+
