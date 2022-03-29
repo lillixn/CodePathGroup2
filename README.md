@@ -112,5 +112,11 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
 ### Networking
 #### List of network requests by screen
    - Home Feed Screen
-  
+      - (Create/POST) Create new goal
+      - (Delete) Delete goals/ calories
+   - Capture Barcode Screen
+      - (Create/POST) Create a new nutrition object
+   - Profile Screen
+      - (Read/GET) Query logged in user object
+      - (Update/PUT) Update user profile image
 
