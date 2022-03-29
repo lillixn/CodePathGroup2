@@ -116,6 +116,15 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
       - (Delete) Delete goals/ calories
    - Capture Barcode Screen
       - (Create/POST) Create a new nutrition object
+      - (Read/GET) Scan barcode
+        ``` barcodeDetector.detect(imageEl)
+          .then(barcodes => {
+            barcodes.forEach(barcode => console.log(barcode.rawData));
+           }
+          .catch(err => {
+            console.log(err);
+           })
+           ```
    - Profile Screen
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile image
