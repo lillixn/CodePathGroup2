@@ -109,5 +109,8 @@ CalCounter is a streamlined, user-friendly solution to tracking calories. Tradit
    | Delete        | DELETE   | Deleting goals or calorie records |
    | Create        | POST     | New goal(s) |
    
+### Networking
+#### List of network requests by screen
+   - Home Feed Screen
   
 
