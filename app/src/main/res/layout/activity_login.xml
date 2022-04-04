@@ -14,7 +14,7 @@
         android:layout_width="403dp"
         android:layout_height="82dp"
         android:layout_weight="1"
-        app:srcCompat="@drawable/nav_logo_whiteout" />
+        app:srcCompat="@drawable/cc_logo_removebg_preview" />
 
     <EditText
         android:id="@+id/etUsername"
