@@ -1,0 +1,7 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.codepath.asynchttpclient.BuildConfig" />
+    <EXCLUDED_PACKAGE NAME="com.facebook.stetho.BuildConfig" />
+  </component>
+</application>
